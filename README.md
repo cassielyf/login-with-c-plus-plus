@@ -1,6 +1,5 @@
-PHP
-<?php
+#include <stdio.h>
+int main (){
+printf ("Olá \n Mundo");
 
-echo "Olá mundo";
-
-?>
+}
