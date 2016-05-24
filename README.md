@@ -1,5 +1,6 @@
-Login with C++
-#include <stdio.h>
-main () {
-printf ("Olá\n");
-}
+PHP
+<?php
+
+echo "Olá mundo";
+
+?>
